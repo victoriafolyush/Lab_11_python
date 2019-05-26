@@ -1,10 +1,10 @@
-from ua.lviv.iot.models.ski_resort_machinery import SkiResortMachinery
-from ua.lviv.iot.models.snow_generator import SnowGenerator
-from ua.lviv.iot.models.snow_tower import SnowTower
-from ua.lviv.iot.models.fuel import Fuel
-from ua.lviv.iot.models.wheel_formula import WheelFormula
-from ua.lviv.iot.managers.ski_resort_machinery_manager import SkiResortMachineryManager
-from ua.lviv.iot.models.swivel_mast import SwivelMast
+from lab_11.ua.lviv.iot.managers.ski_resort_machinery_manager import SkiResortMachineryManager
+from lab_11.ua.lviv.iot.models.fuel import Fuel
+from lab_11.ua.lviv.iot.models.ski_resort_machinery import SkiResortMachinery
+from lab_11.ua.lviv.iot.models.snow_generator import SnowGenerator
+from lab_11.ua.lviv.iot.models.snow_tower import SnowTower
+from lab_11.ua.lviv.iot.models.swivel_mast import SwivelMast
+from lab_11.ua.lviv.iot.models.wheel_formula import WheelFormula
 
 
 def main():

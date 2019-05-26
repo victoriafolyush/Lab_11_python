@@ -1,7 +1,7 @@
-from ua.lviv.iot.models.ski_resort_machinery import SkiResortMachinery
+from lab_11.ua.lviv.iot.models.ski_resort_machinery import SkiResortMachinery
 
 
-class SnowTower(SkiResortMachinery): 
+class SnowTower(SkiResortMachinery):
     
     def __init__ (self,
                  name,
